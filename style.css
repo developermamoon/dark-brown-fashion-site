@@ -17,6 +17,51 @@
     font-weight: 500;
 }
 
+
+
+
+
+/* page 2 design------------------------------------------  */
+.upperpart h1{
+
+            font-family: 'Wayfinder CF';
+            font-size: 90px;
+            color: #050A30;
+    
+}
+
+.image3 img{
+    width: 100%;
+}
+
+.boxes img{
+    width: 100%;
+    height: 100%;
+}
+
+.boxes h3{
+    font-family: 'Hagrid-Regular-trial';
+    padding: 10px 0;
+}
+
+.boxes p{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.boxes a{
+    color: black;
+}
+
+.footer p{
+    margin: 0;
+}
+
+.footer a{
+    color: black;
+}
+
+
  /*------------------- tab view  ---------------*/
 
  @media only screen and (min-width: 577px) and (max-width: 990px) {
