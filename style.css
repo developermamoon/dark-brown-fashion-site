@@ -67,6 +67,13 @@
     font-family: 'Hagrid-Regular-trial';
 }
 
+.box1{
+    width: 430px;
+    height: 430px;
+    /* margin: 0 auto; */
+    background-image: url("images/image7.png");
+}
+
 
  /*------------------- tab view  ---------------*/
 
