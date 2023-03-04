@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Wayfinder CF';
+    src: local('Wayfinder CF Thin'), local('Wayfinder-CF-Thin'),
+        url('WayfinderCF-Thin.woff2') format('woff2'),
+        url('WayfinderCF-Thin.woff') format('woff'),
+        url('WayfinderCF-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }

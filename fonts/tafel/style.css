@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tafel Sans Pro';
+    src: local('Tafel Sans Pro Light Italic'), local('Tafel-Sans-Pro-Light-Italic'),
+        url('TafelSansPro-LightIt.woff2') format('woff2'),
+        url('TafelSansPro-LightIt.woff') format('woff'),
+        url('TafelSansPro-LightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+  }
