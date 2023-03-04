@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Gaqire';
+  src: url(./Gaqire.woff) format('woff'),
+       url(./Gaqire.woff2) format('woff2');
+}
